@@ -1,5 +1,6 @@
 # Sqlite
 sqlite in c-programming
+
 C program for storing and displaying point of interest using SQLite database
 
 ->Display menu to enter point of interest
